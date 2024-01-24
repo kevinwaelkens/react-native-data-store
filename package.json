@@ -1,5 +1,6 @@
 {
   "name": "@kevinwaelkens/react-native-data-store",
+  "version": "0.0.1",
   "description": "A module for data storage on Android.",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
